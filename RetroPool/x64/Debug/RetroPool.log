@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\nedne\OneDrive\Desktop\games\flapy bird copy game\RetroPool\main.cpp(9,21): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\nedne\OneDrive\Desktop\games\flapy bird copy game\RetroPool\main.cpp(10,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\nedne\OneDrive\Desktop\games\flapy bird copy game\RetroPool\main.cpp(11,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\nedne\OneDrive\Desktop\games\flapy bird copy game\RetroPool\main.cpp(105,30): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  RetroPool.vcxproj -> C:\Users\nedne\OneDrive\Desktop\games\flapy bird copy game\x64\Debug\RetroPool.exe
